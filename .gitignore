@@ -1,0 +1,6 @@
+# The model file is 1.16 GB, past GitHub limits. See README.md for the download link.
+models/
+*.gguf
+
+# local logs
+*.log
